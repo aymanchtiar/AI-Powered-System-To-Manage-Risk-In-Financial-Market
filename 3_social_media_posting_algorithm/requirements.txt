@@ -1,0 +1,14 @@
+pandas>=1.3
+scikit-learn>=1.3.2
+requests>=2.25
+praw>=7.3
+requests-oauthlib>=1.3
+yfinance>=0.1
+numpy>=1.21
+joblib>=1.1
+psycopg2-binary>=2.9
+python-telegram-bot>=13.0
+mplfinance
+matplotlib>=3.4
+schedule>=1.0
+pillow>=8.0
